@@ -1,0 +1,9 @@
+name: HarvesterHoe
+version: '${version}'
+main: fr.axel.dev.HarvesterHoe
+depend: [Vault]
+api-version: '1.19'
+commands:
+    giveharvesterhoe:
+      description: Donne une Harvester Hoe au joueur
+      usage: /giveharvesterhoe
